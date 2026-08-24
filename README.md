@@ -1,5 +1,3 @@
-# End-to-End Titanic Survival Prediction and Feature Engineering Pipeline
-
 ## Project Overview
 This project delivers a methodical data science pipeline using the Titanic dataset. Instead of relying on generic shortcuts, the workflow focuses on rigorous data cleaning, structured title-based data imputation, manual historical verification, and an evaluation of categorical encoding techniques on a baseline Logistic Regression model.
 
